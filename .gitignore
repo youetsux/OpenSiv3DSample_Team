@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/App/AS_DEBUG/stats.txt
+/App/Git_And_Siv3D_Sample(debug).exe
